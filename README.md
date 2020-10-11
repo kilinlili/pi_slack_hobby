@@ -14,3 +14,4 @@ slacker
 opencv3.4
 
 ![fuga](https://github.com/kilinlili/pi_slack_hobby/issues/1#issue-718875560)
+![hoge](https://github.com/kilinlili/pi_slack_hobby/issues/1)
