@@ -1,0 +1,9 @@
+# config
+
+API_TOKEN = "xoxb-1388344114550-1401385715940-VvY1pjm4quJeAgqG6OKEYi2o"
+
+CHANNEL = "D01CB12QQHW"
+
+DEFAULT_REPLY = "Hello!"
+
+PLUGINS = ['plugins',]
